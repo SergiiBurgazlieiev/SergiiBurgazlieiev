@@ -17,7 +17,7 @@ Resourceful Software Engineer with a proven record of delivering impactful solut
                   ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                       <a href="https://discord.com/users/SB_DEV_UA" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
