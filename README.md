@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SWE - Frontend Developer
 ------------------------
 
-Resourceful Software Engineer with a proven record of delivering impactful solutions in fast-paced environments. Skilled in collaborating with cross-functional teams to meet tight deadlines and drive revenue growth. Experienced in migration projects, user-facing feature implementation, and enhancing usability and performance. Proficient in advanced testing methodologies and optimization techniques. Holds an Ed.S. in Information Management Systems and a Bachelor's degree in Computer Science. Passionate about coding with JavaScript, React, GraphQL, and Next.js.
+Results-driven front-end developer with a proven track record of driving substantial revenue growth and enhancing system performance. Lead projects that significantly increased annualized revenue and improved user experience metrics. Expertise in developing user-facing features, optimizing testing methodologies, and leveraging advanced technologies such as React.js, JavaScript, GraphQL, and TypeScript to create scalable, high-performance applications. Established unified design systems to enhance efficiency and scalability, designed intuitive interfaces, and implemented API integrations for impactful data insights. Passionate about continuous learning, actively engaged in tutorials and courses to stay at the forefront of front-end development trends.
 
 * 🌍  I'm based in Chicago City
 * 🖥️  See my portfolio at [MyPortfolio](http://sergiiburgazlieiev.netlify.app/work)
