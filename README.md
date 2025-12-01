@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SWE - Frontend Developer
 ------------------------
 
-Results-driven front-end developer with a proven track record of driving substantial revenue growth and enhancing system performance. Lead projects that significantly increased annualized revenue and improved user experience metrics. Expertise in developing user-facing features, optimizing testing methodologies, and leveraging advanced technologies such as React.js, JavaScript, GraphQL, and TypeScript to create scalable, high-performance applications. Established unified design systems to enhance efficiency and scalability, designed intuitive interfaces, and implemented API integrations for impactful data insights. Passionate about continuous learning, actively engaged in tutorials and courses to stay at the forefront of front-end development trends.
+Senior Frontend Engineer specializing in complex data visualization and financial applications. I build risk analytics dashboards at Apex Fintech Solutions using React, TypeScript, AgGrid, and SciChart to surface critical trading data. Previously architected global checkout flows serving millions at PayPal. I excel at high-performance, accessible interfaces for data-intensive platforms and partner closely with product and backend to deliver scalable, internationalized experiences.
 
 * 🌍  I'm based in Chicago City
 * 🖥️  See my portfolio at [MyPortfolio](http://sergiiburgazlieiev.netlify.app/work)
